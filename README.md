@@ -1,6 +1,6 @@
 # OctoPrint - Snapmaker 2.0 Control
   
-This is a fork of the original Snapmaker Control by Ron.
+This is a fork of the original Snapmaker Control by Ron-Linkertech.
   
 This plugin is for the Snapmaker 3-in-one printer/CNC/Laser. It was not developed by Snapmaker.
 
