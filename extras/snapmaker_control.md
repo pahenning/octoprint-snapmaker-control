@@ -10,9 +10,9 @@ license: ISC
 # TODO
 date: today's date in format YYYY-MM-DD, e.g. 2015-04-21
 
-homepage: https://github.com/ron-linkertech/octoprint-snapmaker-control
-source: https://github.com/ron-linkertech/octoprint-snapmaker-control
-archive: https://github.com/ron-linkertech/octoprint-snapmaker-control/archive/master.zip
+homepage: https://github.com/pahenning/octoprint-snapmaker20-control/
+source: https://github.com/pahenning/octoprint-snapmaker20-control/
+archive: https://github.com/pahenning/octoprint-snapmaker20-control/archive/master.zip
 
 # TODO
 # Set this to true if your plugin uses the dependency_links setup parameter to include
