@@ -2,9 +2,9 @@
 layout: plugin
 
 id: snapmaker_control
-title: OctoPrint - Snapmaker Control
+title: OctoPrint - Snapmaker 2.0 Control
 description: TODO
-author: Ron Lawrence
+author: Peter A. Henning
 license: ISC
 
 # TODO
