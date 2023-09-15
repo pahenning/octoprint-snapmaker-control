@@ -176,16 +176,16 @@ class SnapmakerControlPlugin(octoprint.plugin.StartupPlugin,
 # If you want your plugin to be registered within OctoPrint under a different name than what you defined in setup.py
 # ("OctoPrint-PluginSkeleton"), you may define that here. Same goes for the other metadata derived from setup.py that
 # can be overwritten via __plugin_xyz__ control properties. See the documentation for that.
-__plugin_name__ = "Snapmaker Control"
-__plugin_description__ = "Control for Snapmaker printer's CNC and laser modules"
+__plugin_name__ = "Snapmaker 2.0 Control"
+__plugin_description__ = "Control for Snapmaker 2.0 printer's CNC and laser modules"
 __plugin_license__ = "ISC"
-__plugin_url__ = "https://ron-linkertech.github.io/octoprint-snapmaker-control/"
-__plugin_author__ = "Ron Lawrence"
+__plugin_url__ = "https://github.com/pahenning/octoprint-snapmaker20-control/"
+__plugin_author__ = "Peter A. Henning"
 
 
 def __plugin_load__():
     global __plugin_implementation__
-    __plugin_implementation__ = SnapmakerControlPlugin()
+    __plugin_implementation__ = Snapmaker20ControlPlugin()
 
     global __plugin_hooks__
     __plugin_hooks__ = {
