@@ -1,6 +1,6 @@
-# OctoPrint - Snapmaker Control
+# OctoPrint - Snapmaker 2.0 Control
   
-  (-- Sorry all, I have not upgraded to snapmaker 2 and currently am without the ability to use my snapmaker 1. If anyone wants to fork this and take it over, please feel free to! --)
+This is a fork of the original Snapmaker Control by Ron.
   
 This plugin is for the Snapmaker 3-in-one printer/CNC/Laser. It was not developed by Snapmaker.
 
