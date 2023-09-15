@@ -1,8 +1,8 @@
-# OctoPrint - Snapmaker Control
+# OctoPrint - Snapmaker 2.0 Control
 
 This plugin is for the Snapmaker 3-in-one printer/CNC/Laser. It was not developed by Snapmaker.
 
-This plugin will allow users to use the CNC and laser attachments of the snapmaker through octopi.
+This plugin will allow users to use the CNC and laser attachments of the snapmaker through OctoPrint.
 
 If the laser is detected it will allow you to turn the laser on and off (setting the power). 
 If the CNC is detected it will allow you to turn the CNC tool on and off.
@@ -16,7 +16,7 @@ Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wik
 
 Right now, you must manually install it using this URL:
 
-    https://github.com/ron-linkertech/octoprint-snapmaker-control/archive/master.zip
+    https://github.com/pahenning/octoprint-snapmaker20-control/archive/master.zip
 
 When it is through "beta" testing, I will register it with Octoprint and you will be able to install it through the
 search function in plugin manager.
